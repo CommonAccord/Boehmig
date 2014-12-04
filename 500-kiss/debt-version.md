@@ -15,8 +15,7 @@ H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the “__Com
 
 1.Ti=__Definitions.__
 
-1.1.H.Sec=“_Conversion Shares_” shall mean:
-
+1.1.0.Sec=“_Conversion Shares_” shall mean:
 
 1.1.1.Sec=with respect to a conversion pursuant to Section 2.1, shares of the Company’s Preferred Stock issued in the Next Equity Financing; provided, however, that, at the Company’s election, “Conversion Shares” with respect to a conversion pursuant to Section 2.1 shall mean shares of a Shadow Series;
 
