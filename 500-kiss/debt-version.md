@@ -155,7 +155,7 @@ H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the “__Com
 4.secs={4.1-5.Secs}
 
 
-5.Ti=__Miscellaneous.__
+5.Ti=Miscellaneous
 
 5.1.Ti=Most Favored Nation
 
