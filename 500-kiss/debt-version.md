@@ -1,5 +1,3 @@
-
-
 Heading=THIS INSTRUMENT AND THE SECURITIES ISSUABLE UPON THE CONVERSION HEREOF HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED. THEY MAY NOT BE SOLD, OFFERED FOR SALE, PLEDGED, HYPOTHECATED, OR OTHERWISE TRANSFERRED EXCEPT PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR AN OPINION OF COUNSEL SATISFACTORY TO THE COMPANY THAT REGISTRATION IS NOT REQUIRED UNDER SUCH ACT OR UNLESS SOLD PURSUANT TO RULE 144 UNDER SUCH ACT.
 
 
@@ -13,9 +11,9 @@ H.4.Sec={Date}
 
 H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the “__Company__”), hereby promises to pay to the order of {Investor Name} \(the “__Investor__”), the principal sum of the Purchase Price, together with interest thereon from the Date of Issuance.  Interest shall accrue at the Interest Rate.  Unless earlier converted into Conversion Shares pursuant to Section 2, the principal and accrued interest shall be due and payable by the Company on demand by the Majority in Interest at any time after the Maturity Date.  This KISS is one of a series of Series {Series Number} KISSes issued by the Company to investors with identical terms and on the same form as set forth herein (except that the Investor, Purchase Price and Date of Issuance may differ in each KISS) (collectively, the “Series”).
 
-1.Ti=__Definitions.__
+1.Ti=Definitions
 
-1.1.0.Sec=“_Conversion Shares_” shall mean:
+1.1.Ti=“_Conversion Shares_” shall mean:
 
 1.1.1.Sec=with respect to a conversion pursuant to Section 2.1, shares of the Company’s Preferred Stock issued in the Next Equity Financing; provided, however, that, at the Company’s election, “Conversion Shares” with respect to a conversion pursuant to Section 2.1 shall mean shares of a Shadow Series;
 
@@ -23,7 +21,7 @@ H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the “__Com
 
 1.1.3.Sec=with respect to a conversion pursuant to Section 2.3, shares of a newly created series of the Company’s Series Seed Preferred Stock, upon the terms and provisions set forth in the most recent version of the Series Seed documents posted at www.seriesseed.com (or if not so posted, as reasonably agreed by the Company and a Majority in Interest); provided that, for the avoidance of doubt, the Conversion Price shall be determined pursuant to Section 1(b)(iii).
 
-1.2.H.Sec=“_Conversion Price_” shall equal:
+1.2.Ti=“_Conversion Price_” shall equal:
 
 1.2.1.Sec=with respect to a conversion pursuant to Section 2.1, the lower of (A) the product of (1) one (1) minus the Discount and (2) the price paid per share for Preferred Stock by the investors in the Next Equity Financing or (B) the quotient resulting from dividing (1) the Valuation Cap by (2) the Fully-Diluted Capitalization immediately prior to the closing of the Next Equity Financing;
 
@@ -264,6 +262,4 @@ Name:
 
 Title:  
 
-Address:    
-
-    
+Address:  
