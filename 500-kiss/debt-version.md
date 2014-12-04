@@ -96,9 +96,13 @@ H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the “__Com
 
 3.0.Sec=In connection with the transactions provided for herein, the Company hereby represents and warrants to the Investor that:
 
-3.1.Sec=Organization, Good Standing and Qualification.  The Company is a corporation duly organized, validly existing, and in good standing under the laws of the State of Delaware and has all requisite corporate power and authority to carry on its business as now conducted.  The Company is duly qualified to transact business and is in good standing in each jurisdiction in which the failure to so qualify would have a material adverse effect on its business or properties.
+3.1.Ti=Organization, Good Standing and Qualification
 
-3.2.Sec=Authorization.  Except for the authorization and issuance of the Conversion Shares issuable in connection with the Next Equity Financing, a Corporate Transaction or an optional conversion on or after the Maturity Date, all corporate action has been taken on the part of the Company, its officers, directors and stockholders necessary for the authorization, execution and delivery of this KISS.  The Company has taken all corporate action required to make all of the obligations of the Company reflected in the provisions of this KISS the valid and enforceable obligations they purport to be, and this KISS, when executed and delivered by the Company, shall constitute the valid and legally binding obligation of the Company, enforceable against the Company in accordance with its terms.
+3.1.sec=The Company is a corporation duly organized, validly existing, and in good standing under the laws of the State of Delaware and has all requisite corporate power and authority to carry on its business as now conducted.  The Company is duly qualified to transact business and is in good standing in each jurisdiction in which the failure to so qualify would have a material adverse effect on its business or properties.
+
+3.2.Ti=Authorization
+
+3.2.sec=Except for the authorization and issuance of the Conversion Shares issuable in connection with the Next Equity Financing, a Corporate Transaction or an optional conversion on or after the Maturity Date, all corporate action has been taken on the part of the Company, its officers, directors and stockholders necessary for the authorization, execution and delivery of this KISS.  The Company has taken all corporate action required to make all of the obligations of the Company reflected in the provisions of this KISS the valid and enforceable obligations they purport to be, and this KISS, when executed and delivered by the Company, shall constitute the valid and legally binding obligation of the Company, enforceable against the Company in accordance with its terms.
 
 3.3.Sec=Offering.  Subject in part to the truth and accuracy of the Investor’s representations set forth herein, the offer, sale and issuance of this KISS are exempt from the registration requirements of any applicable state and federal securities laws, and neither the Company nor any authorized agent acting on its behalf will take any action hereafter that would cause the loss of such exemption.
 
