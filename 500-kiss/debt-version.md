@@ -1,14 +1,20 @@
-Heading=THIS INSTRUMENT AND THE SECURITIES ISSUABLE UPON THE CONVERSION HEREOF HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED. THEY MAY NOT BE SOLD, OFFERED FOR SALE, PLEDGED, HYPOTHECATED, OR OTHERWISE TRANSFERRED EXCEPT PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR AN OPINION OF COUNSEL SATISFACTORY TO THE COMPANY THAT REGISTRATION IS NOT REQUIRED UNDER SUCH ACT OR UNLESS SOLD PURSUANT TO RULE 144 UNDER SUCH ACT.
+
+
+Ti=THIS INSTRUMENT AND THE SECURITIES ISSUABLE UPON THE CONVERSION HEREOF HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED. THEY MAY NOT BE SOLD, OFFERED FOR SALE, PLEDGED, HYPOTHECATED, OR OTHERWISE TRANSFERRED EXCEPT PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR AN OPINION OF COUNSEL SATISFACTORY TO THE COMPANY THAT REGISTRATION IS NOT REQUIRED UNDER SUCH ACT OR UNLESS SOLD PURSUANT TO RULE 144 UNDER SUCH ACT.
+
 
 H.1.Sec=__SERIES [Series Number]__
 
 H.2.Sec=__KISS__
     
-0.3.Sec=${Purchase Price}    
+H.3.Sec=${Purchase Price}    
 
-0.4.Sec={Date}
+H.4.Sec={Date}
 
-0.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the “__Company__”), hereby promises to pay to the order of {Investor Name} \(the “__Investor__”), the principal sum of the Purchase Price, together with interest thereon from the Date of Issuance.  Interest shall accrue at the Interest Rate.  Unless earlier converted into Conversion Shares pursuant to Section 2, the principal and accrued interest shall be due and payable by the Company on demand by the Majority in Interest at any time after the Maturity Date.  This KISS is one of a series of Series {Series Number} KISSes issued by the Company to investors with identical terms and on the same form as set forth herein (except that the Investor, Purchase Price and Date of Issuance may differ in each KISS) (collectively, the “Series”).
+H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the “__Company__”), hereby promises to pay to the order of {Investor Name} \(the “__Investor__”), the principal sum of the Purchase Price, together with interest thereon from the Date of Issuance.  Interest shall accrue at the Interest Rate.  Unless earlier converted into Conversion Shares pursuant to Section 2, the principal and accrued interest shall be due and payable by the Company on demand by the Majority in Interest at any time after the Maturity Date.  This KISS is one of a series of Series {Series Number} KISSes issued by the Company to investors with identical terms and on the same form as set forth herein (except that the Investor, Purchase Price and Date of Issuance may differ in each KISS) (collectively, the “Series”).
+
+
+1.secs={1.1-16.Secs}
 
 1.Ti=__Definitions.__
 
@@ -60,17 +66,29 @@ H.2.Sec=__KISS__
 
 1.16.Sec=“_Valuation Cap_” shall mean US$ {Valuation Cap}.
 
-* (2.)  __Conversion of the KISS.__
+2.secs={2.1-6.Secs}
 
-    * (2.1) Next Equity Financing.  Upon the closing of the Next Equity Financing, this KISS will be automatically converted into that number of Conversion Shares equal to the quotient obtained by dividing the Purchase Price and unpaid accrued interest on this KISS by the Conversion Price.  Notwithstanding the foregoing, accrued interest on this KISS may be paid in cash at the option of the Company.  At least five (5) days prior to the closing of the Next Equity Financing, the Company shall notify the Investor in writing of the terms under which the Preferred Stock of the Company will be sold in such financing.  The issuance of Conversion Shares pursuant to the conversion of this KISS shall be upon and subject to the same terms and conditions applicable to the Preferred Stock sold in the Next Equity Financing (or the Shadow Series, as applicable).  
+2.Sec=__Conversion of the KISS.__
 
-    * (2.2) Corporate Transaction.  In the event of a Corporate Transaction prior to the conversion of this KISS pursuant to Section 2.1 or 2.3, at Investor’s election, (i) this KISS shall be converted into that number of Conversion Shares equal to the quotient obtained by dividing the Purchase Price and unpaid accrued interest on this KISS by the Conversion Price; or (ii) the Investor shall be paid the Corporate Transaction Payment.  At least ten (10) days prior to the closing of the Corporate Transaction, the Company shall notify the Investor in writing of the terms of the Corporate Transaction.
+2.1.Ti=Next Equity Financing
 
-    * (2.3) Maturity Conversion.  Unless earlier converted to Conversion Shares or paid pursuant to Section 2.1 or 2.2, at the election of the Majority in Interest at any time on or after the Maturity Date, this KISS shall be converted into that number of Conversion Shares equal to the quotient obtained by dividing the Purchase Price and unpaid accrued interest on this KISS by the Conversion Price.
+2.1.sec=Upon the closing of the Next Equity Financing, this KISS will be automatically converted into that number of Conversion Shares equal to the quotient obtained by dividing the Purchase Price and unpaid accrued interest on this KISS by the Conversion Price.  Notwithstanding the foregoing, accrued interest on this KISS may be paid in cash at the option of the Company.  At least five (5) days prior to the closing of the Next Equity Financing, the Company shall notify the Investor in writing of the terms under which the Preferred Stock of the Company will be sold in such financing.  The issuance of Conversion Shares pursuant to the conversion of this KISS shall be upon and subject to the same terms and conditions applicable to the Preferred Stock sold in the Next Equity Financing (or the Shadow Series, as applicable).  
 
-    * (2.4) No Fractional Shares.  Upon the conversion of this KISS into Conversion Shares, in lieu of any fractional shares to which the holder of this KISS would otherwise be entitled, the Company shall pay the holder cash equal to such fraction multiplied by the Conversion Price.
+2.2.Ti=Corporate Transaction
 
-    * (2.5) Mechanics of Conversion.  As promptly as practicable after the conversion of this KISS, the Company at its expense will issue and deliver to the Investor, upon surrender of this KISS, a certificate or certificates for the number of Conversion Shares.  Conversion of this KISS may be made contingent upon the closing of the Next Equity Financing or Corporate Transaction.
+2.2.sec=In the event of a Corporate Transaction prior to the conversion of this KISS pursuant to Section 2.1 or 2.3, at Investor’s election, (i) this KISS shall be converted into that number of Conversion Shares equal to the quotient obtained by dividing the Purchase Price and unpaid accrued interest on this KISS by the Conversion Price; or (ii) the Investor shall be paid the Corporate Transaction Payment.  At least ten (10) days prior to the closing of the Corporate Transaction, the Company shall notify the Investor in writing of the terms of the Corporate Transaction.
+
+2.3.Ti=Maturity Conversion
+
+2.3.sec=Unless earlier converted to Conversion Shares or paid pursuant to Section 2.1 or 2.2, at the election of the Majority in Interest at any time on or after the Maturity Date, this KISS shall be converted into that number of Conversion Shares equal to the quotient obtained by dividing the Purchase Price and unpaid accrued interest on this KISS by the Conversion Price.
+
+2.4.Ti=No Fractional Shares
+
+2.5.sec=Upon the conversion of this KISS into Conversion Shares, in lieu of any fractional shares to which the holder of this KISS would otherwise be entitled, the Company shall pay the holder cash equal to such fraction multiplied by the Conversion Price.
+
+2.6.Ti=Mechanics of Conversion
+
+2.6.sec=As promptly as practicable after the conversion of this KISS, the Company at its expense will issue and deliver to the Investor, upon surrender of this KISS, a certificate or certificates for the number of Conversion Shares.  Conversion of this KISS may be made contingent upon the closing of the Next Equity Financing or Corporate Transaction.
 
 * (3.)  Representations and Warranties of the Company.  In connection with the transactions provided for herein, the Company hereby represents and warrants to the Investor that:
 
