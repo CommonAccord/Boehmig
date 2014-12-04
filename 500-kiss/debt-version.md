@@ -131,7 +131,7 @@ H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the “__Com
 4.secs={4.1-5.Secs}
 
 
-5.Sec=__Miscellaneous.__
+5.Ti=__Miscellaneous.__
 
 5.1.Sec=Most Favored Nation.  In the event the Company sells or issues any convertible instruments (other than the issuance of stock options to service providers of the Company) at any time prior to the earlier of (a) conversion of this KISS, (b) a Corporate Transaction or (c) payment in full of all outstanding principal and accrued interest in accordance with this KISS, the Company shall provide the Investor with written notice of such sale or issuance no later than five (5) days after the closing date thereof, including the price and terms of such convertible instruments (the “Subsequent Instruments”).  In the event the Investor determines, in its sole and absolute discretion, that any Subsequent Instrument contains terms more favorable to the holder(s) thereof than the terms set forth in this KISS, the Investor may elect to exchange this KISS for a Subsequent Instrument.
 
