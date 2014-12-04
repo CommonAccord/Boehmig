@@ -191,7 +191,7 @@ H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the “__Com
 
 5.5.Ti=Security
 
-5.5.secs=This KISS is a general unsecured obligation of the Company.
+5.5.sec=This KISS is a general unsecured obligation of the Company.
 
 5.6.Ti=Successors and Assigns
 
