@@ -66,7 +66,7 @@ H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the “__Com
 
 
 
-2.Sec=__Conversion of the KISS.__
+2.Ti=__Conversion of the KISS.__
 
 2.1.Ti=Next Equity Financing
 
