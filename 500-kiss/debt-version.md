@@ -1,19 +1,19 @@
 Heading=THIS INSTRUMENT AND THE SECURITIES ISSUABLE UPON THE CONVERSION HEREOF HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED. THEY MAY NOT BE SOLD, OFFERED FOR SALE, PLEDGED, HYPOTHECATED, OR OTHERWISE TRANSFERRED EXCEPT PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR AN OPINION OF COUNSEL SATISFACTORY TO THE COMPANY THAT REGISTRATION IS NOT REQUIRED UNDER SUCH ACT OR UNLESS SOLD PURSUANT TO RULE 144 UNDER SUCH ACT.
 
 
-H.1.Sec=__SERIES [Series Number]__
+H.1.Sec=<b>SERIES [Series Number]</b>
 
-H.2.Sec=__KISS__
+H.2.Sec=<b>KISS</b>
     
 H.3.Sec=${Purchase Price}    
 
 H.4.Sec={Date}
 
-H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the “__Company__”), hereby promises to pay to the order of {Investor Name} \(the “__Investor__”), the principal sum of the Purchase Price, together with interest thereon from the Date of Issuance.  Interest shall accrue at the Interest Rate.  Unless earlier converted into Conversion Shares pursuant to Section 2, the principal and accrued interest shall be due and payable by the Company on demand by the Majority in Interest at any time after the Maturity Date.  This KISS is one of a series of Series {Series Number} KISSes issued by the Company to investors with identical terms and on the same form as set forth herein (except that the Investor, Purchase Price and Date of Issuance may differ in each KISS) (collectively, the “Series”).
+H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the “<b>Company</b>”), hereby promises to pay to the order of {Investor Name} \(the “<b>Investor</b>”), the principal sum of the Purchase Price, together with interest thereon from the Date of Issuance.  Interest shall accrue at the Interest Rate.  Unless earlier converted into Conversion Shares pursuant to Section 2, the principal and accrued interest shall be due and payable by the Company on demand by the Majority in Interest at any time after the Maturity Date.  This KISS is one of a series of Series {Series Number} KISSes issued by the Company to investors with identical terms and on the same form as set forth herein (except that the Investor, Purchase Price and Date of Issuance may differ in each KISS) (collectively, the “Series”).
 
 1.Ti=Definitions
 
-1.1.Ti=“_Conversion Shares_” shall mean:
+1.1.Ti=“<i>Conversion Shares</i>” shall mean:
 
 1.1.1.Sec=with respect to a conversion pursuant to Section 2.1, shares of the Company’s Preferred Stock issued in the Next Equity Financing; provided, however, that, at the Company’s election, “Conversion Shares” with respect to a conversion pursuant to Section 2.1 shall mean shares of a Shadow Series;
 
@@ -21,7 +21,7 @@ H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the “__Com
 
 1.1.3.Sec=with respect to a conversion pursuant to Section 2.3, shares of a newly created series of the Company’s Series Seed Preferred Stock, upon the terms and provisions set forth in the most recent version of the Series Seed documents posted at www.seriesseed.com (or if not so posted, as reasonably agreed by the Company and a Majority in Interest); provided that, for the avoidance of doubt, the Conversion Price shall be determined pursuant to Section 1(b)(iii).
 
-1.2.Ti=“_Conversion Price_” shall equal:
+1.2.Ti=“<i>Conversion Price</i>” shall equal:
 
 1.2.1.Sec=with respect to a conversion pursuant to Section 2.1, the lower of (A) the product of (1) one (1) minus the Discount and (2) the price paid per share for Preferred Stock by the investors in the Next Equity Financing or (B) the quotient resulting from dividing (1) the Valuation Cap by (2) the Fully-Diluted Capitalization immediately prior to the closing of the Next Equity Financing;
 
@@ -29,42 +29,42 @@ H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the “__Com
 
 1.2.3.Sec=with respect to a conversion pursuant to Section 2.3, the quotient resulting from dividing (A) the Valuation Cap by (B) the Fully-Diluted Capitalization immediately prior to the conversion.
 
-1.3.Sec=“_Corporate Transaction_” shall mean (i) the closing of the sale, transfer or other disposition of all or substantially all of the Company’s assets, (ii) the consummation of the merger or consolidation of the Company with or into another entity (except a merger or consolidation in which the holders of capital stock of the Company immediately prior to such merger or consolidation continue to hold at least 50% of the voting power of the capital stock of the Company or the surviving or acquiring entity), (iii) the closing of the transfer (whether by merger, consolidation or otherwise), in one transaction or a series of related transactions, to a person or group of affiliated persons (other than an underwriter of the Company’s securities), of the Company’s securities if, after such closing, such person or group of affiliated persons would hold 50% or more of the outstanding voting stock of the Company (or the surviving or acquiring entity), or (iv) the liquidation, dissolution or winding up of the Company; provided, however, that a transaction shall not constitute a Corporate Transaction if its sole purpose is to change the state of the Company’s incorporation or to create a holding company that will be owned in substantially the same proportions by the persons who held the Company’s securities immediately prior to such transaction.  Notwithstanding the prior sentence, the sale of shares of Preferred Stock in a bona fide financing transaction shall not be deemed a “Corporate Transaction.”
+1.3.Sec=“<i>Corporate Transaction</i>” shall mean (i) the closing of the sale, transfer or other disposition of all or substantially all of the Company’s assets, (ii) the consummation of the merger or consolidation of the Company with or into another entity (except a merger or consolidation in which the holders of capital stock of the Company immediately prior to such merger or consolidation continue to hold at least 50% of the voting power of the capital stock of the Company or the surviving or acquiring entity), (iii) the closing of the transfer (whether by merger, consolidation or otherwise), in one transaction or a series of related transactions, to a person or group of affiliated persons (other than an underwriter of the Company’s securities), of the Company’s securities if, after such closing, such person or group of affiliated persons would hold 50% or more of the outstanding voting stock of the Company (or the surviving or acquiring entity), or (iv) the liquidation, dissolution or winding up of the Company; provided, however, that a transaction shall not constitute a Corporate Transaction if its sole purpose is to change the state of the Company’s incorporation or to create a holding company that will be owned in substantially the same proportions by the persons who held the Company’s securities immediately prior to such transaction.  Notwithstanding the prior sentence, the sale of shares of Preferred Stock in a bona fide financing transaction shall not be deemed a “Corporate Transaction.”
 
-1.4.Sec=“_Corporate Transaction Payment_” shall mean an amount equal to all accrued and unpaid interest due on this KISS plus two times (2X) the Purchase Price.
+1.4.Sec=“<i>Corporate Transaction Payment</i>” shall mean an amount equal to all accrued and unpaid interest due on this KISS plus two times (2X) the Purchase Price.
 
-1.5.Sec=“_Discount_” shall mean {Discount}%.
+1.5.Sec=“<i>Discount</i>” shall mean {Discount}%.
 
-1.6.Sec=“_Equity Securities_” shall mean the Company’s Common Stock or Preferred Stock or any securities conferring the right to purchase the Company’s Common Stock or Preferred Stock or securities convertible into, or exchangeable for (with or without additional consideration), the Company’s Common Stock or Preferred Stock, except any security granted, issued and/or sold by the Company to any director, officer, employee or consultant of the Company in such capacity for the primary purpose of soliciting or retaining their services.
+1.6.Sec=“<i>Equity Securities</i>” shall mean the Company’s Common Stock or Preferred Stock or any securities conferring the right to purchase the Company’s Common Stock or Preferred Stock or securities convertible into, or exchangeable for (with or without additional consideration), the Company’s Common Stock or Preferred Stock, except any security granted, issued and/or sold by the Company to any director, officer, employee or consultant of the Company in such capacity for the primary purpose of soliciting or retaining their services.
 
-1.7.Sec=“_Financial Statements_” shall mean an income statement, balance sheet, statement of stockholders’ equity, and/or a statement of cash flows, in each case as of the end of (i) each of the first three (3) fiscal quarters and (ii) each fiscal year of the Company.
+1.7.Sec=“<i>Financial Statements</i>” shall mean an income statement, balance sheet, statement of stockholders’ equity, and/or a statement of cash flows, in each case as of the end of (i) each of the first three (3) fiscal quarters and (ii) each fiscal year of the Company.
 
-1.6.Sec=“_Fully-Diluted Capitalization_” shall mean the number of shares of outstanding Common Stock of the Company on a fully-diluted basis, including (i) conversion or exercise of all securities convertible into or exercisable for Common Stock, (ii) exercise of all outstanding options and warrants to purchase Common Stock and, in the case of Section 1(b)(i) and 1(b)(iii) only, (iii) the shares reserved or authorized for issuance under the Company’s existing stock option plan or any stock option plan created or increased in connection with such transaction; but excluding, for this purpose, the conversion contemplated by the applicable provision of Section 2.
+1.6.Sec=“<i>Fully-Diluted Capitalization</i>” shall mean the number of shares of outstanding Common Stock of the Company on a fully-diluted basis, including (i) conversion or exercise of all securities convertible into or exercisable for Common Stock, (ii) exercise of all outstanding options and warrants to purchase Common Stock and, in the case of Section 1(b)(i) and 1(b)(iii) only, (iii) the shares reserved or authorized for issuance under the Company’s existing stock option plan or any stock option plan created or increased in connection with such transaction; but excluding, for this purpose, the conversion contemplated by the applicable provision of Section 2.
 
-1.7.Sec=“_Holder_” shall mean a member of the KISS Group that holds a KISS (including, without limitation, the Investor, for so long as the Investor holds this KISS).
+1.7.Sec=“<i>Holder</i>” shall mean a member of the KISS Group that holds a KISS (including, without limitation, the Investor, for so long as the Investor holds this KISS).
 
-1.8.Sec=“_Interest Rate_” shall mean a rate of four percent (4%) per annum, compounded annually.
+1.8.Sec=“<i>Interest Rate</i>” shall mean a rate of four percent (4%) per annum, compounded annually.
 
-1.9.Sec=“_KISS_” or “_KISSes_” shall mean the KISS instruments issued by the Company to Holders in the form hereof.
+1.9.Sec=“<i>KISS</i>” or “<i>KISSes</i>” shall mean the KISS instruments issued by the Company to Holders in the form hereof.
 
-1.10.Sec=“_KISS Group_” shall mean the holders of all KISSes in the Series, collectively.
+1.10.Sec=“<i>KISS Group</i>” shall mean the holders of all KISSes in the Series, collectively.
 
-1.11.Sec=“_Majority in Interest_” shall mean members of the KISS Group holding a majority in interest of the aggregate Purchase Prices of all KISSes in the Series.
+1.11.Sec=“<i>Majority in Interest</i>” shall mean members of the KISS Group holding a majority in interest of the aggregate Purchase Prices of all KISSes in the Series.
 
-1.12.Sec=“_Maturity Date_” shall mean the date that is eighteen (18) months following the Date of Issuance.
+1.12.Sec=“<i>Maturity Date</i>” shall mean the date that is eighteen (18) months following the Date of Issuance.
 
-1.13.Sec=“_Next Equity Financing_” shall mean the next sale (or series of related sales) by the Company of its Preferred Stock following the Date of Issuance from which the Company receives gross proceeds of not less than $1,000,000 (excluding the aggregate amount of securities converted into Preferred Stock in connection with such sale (or series of related sales)).
+1.13.Sec=“<i>Next Equity Financing</i>” shall mean the next sale (or series of related sales) by the Company of its Preferred Stock following the Date of Issuance from which the Company receives gross proceeds of not less than $1,000,000 (excluding the aggregate amount of securities converted into Preferred Stock in connection with such sale (or series of related sales)).
 
-1.14.Sec=“_Participation Amount_” shall mean an amount in US dollars equal to one times (1X) the Purchase Price. 
+1.14.Sec=“<i>Participation Amount</i>” shall mean an amount in US dollars equal to one times (1X) the Purchase Price. 
 
-1.15.Sec=“_Shadow Series_” shall mean shares of a series of the Company’s Preferred Stock that is identical in all respects to the shares of Preferred Stock issued in the Next Equity Financing (e.g., if the Company sells Series A Preferred Stock in the Next Equity Financing, the Shadow Series would be Series A-1 Preferred Stock), except that the liquidation preference per share of the Shadow Series shall equal the Conversion Price (as determined pursuant to Section 1(b)(i)), with corresponding adjustments to any price-based antidilution and dividend rights provisions.
+1.15.Sec=“<i>Shadow Series</i>” shall mean shares of a series of the Company’s Preferred Stock that is identical in all respects to the shares of Preferred Stock issued in the Next Equity Financing (e.g., if the Company sells Series A Preferred Stock in the Next Equity Financing, the Shadow Series would be Series A-1 Preferred Stock), except that the liquidation preference per share of the Shadow Series shall equal the Conversion Price (as determined pursuant to Section 1(b)(i)), with corresponding adjustments to any price-based antidilution and dividend rights provisions.
 
-1.16.Sec=“_Valuation Cap_” shall mean US$ {Valuation Cap}.
+1.16.Sec=“<i>Valuation Cap</i>” shall mean US$ {Valuation Cap}.
 
 1.secs={1.1-16.Secs}
 
 
-2.Ti=__Conversion of the KISS.__
+2.Ti=Conversion of the KISS
 
 2.1.Ti=Next Equity Financing
 
@@ -240,7 +240,7 @@ H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the “__Com
 
 6.sec=The Company hereby represents that its Board of Directors, in the exercise of its fiduciary duty, has approved the Company’s execution of this KISS based upon a reasonable belief that the Purchase Price provided hereunder is appropriate for the Company after reasonable inquiry concerning the Company’s financing objectives and financial situation.  In addition, the Company hereby represents that it intends to use the Purchase Price primarily for the operations of its business, and not for any personal, family or household purpose.
 
-90.Sec=_Signature Page Follows_
+90.Sec=<i>Signature Page Follows</i>
 
 [COMPANY NAME]
 
