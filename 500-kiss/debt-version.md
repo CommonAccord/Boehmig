@@ -17,7 +17,7 @@ H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the “__Com
 
 1.Ti=__Definitions.__
 
-1.1.Sec=“_Conversion Shares_” shall mean:
+1.1.0.Sec=“_Conversion Shares_” shall mean:
 
 
 1.1.1.Sec=with respect to a conversion pursuant to Section 2.1, shares of the Company’s Preferred Stock issued in the Next Equity Financing; provided, however, that, at the Company’s election, “Conversion Shares” with respect to a conversion pursuant to Section 2.1 shall mean shares of a Shadow Series;
@@ -26,7 +26,7 @@ H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the “__Com
 
 1.1.3.Sec=with respect to a conversion pursuant to Section 2.3, shares of a newly created series of the Company’s Series Seed Preferred Stock, upon the terms and provisions set forth in the most recent version of the Series Seed documents posted at www.seriesseed.com (or if not so posted, as reasonably agreed by the Company and a Majority in Interest); provided that, for the avoidance of doubt, the Conversion Price shall be determined pursuant to Section 1(b)(iii).
 
-1.2.Sec=“_Conversion Price_” shall equal:
+1.2.0.Sec=“_Conversion Price_” shall equal:
 
 1.2.1.Sec=with respect to a conversion pursuant to Section 2.1, the lower of (A) the product of (1) one (1) minus the Discount and (2) the price paid per share for Preferred Stock by the investors in the Next Equity Financing or (B) the quotient resulting from dividing (1) the Valuation Cap by (2) the Fully-Diluted Capitalization immediately prior to the closing of the Next Equity Financing;
 
