@@ -84,11 +84,11 @@ H.5.Sec=FOR VALUE RECEIVED, {Company Name}, a Delaware corporation (the “__Com
 
 2.4.Ti=No Fractional Shares
 
-2.5.sec=Upon the conversion of this KISS into Conversion Shares, in lieu of any fractional shares to which the holder of this KISS would otherwise be entitled, the Company shall pay the holder cash equal to such fraction multiplied by the Conversion Price.
+2.4.sec=Upon the conversion of this KISS into Conversion Shares, in lieu of any fractional shares to which the holder of this KISS would otherwise be entitled, the Company shall pay the holder cash equal to such fraction multiplied by the Conversion Price.
 
-2.6.Ti=Mechanics of Conversion
+2.5.Ti=Mechanics of Conversion
 
-2.6.sec=As promptly as practicable after the conversion of this KISS, the Company at its expense will issue and deliver to the Investor, upon surrender of this KISS, a certificate or certificates for the number of Conversion Shares.  Conversion of this KISS may be made contingent upon the closing of the Next Equity Financing or Corporate Transaction.
+2.5.sec=As promptly as practicable after the conversion of this KISS, the Company at its expense will issue and deliver to the Investor, upon surrender of this KISS, a certificate or certificates for the number of Conversion Shares.  Conversion of this KISS may be made contingent upon the closing of the Next Equity Financing or Corporate Transaction.
 
 3.Ti=Representations and Warranties of the Company
 
