@@ -1,28 +1,28 @@
-Ti=TERMS FOR PRIVATE PLACEMENT OF SERIES SEED PREFERRED STOCK OF {P1.Name.Full}
+Ti=TERMS FOR PRIVATE PLACEMENT OF SERIES SEED PREFERRED STOCK OF {m-}{P1.Name.Full}{-m}
 
 0.Sec={0.1.Sec}<br>{0.2.Sec}<br>{0.3.Sec}<br>
 
-0.1.Sec={Agt.Effective.YMD}
+0.1.Sec={m-}{Agt.Effective.YMD}{-m}
 
-0.2.Sec=The following is a summary of the principal terms with respect to the proposed Series Seed Preferred Stock financing of {P1.N,E,A} (the “{Company}”).  Except for the section entitled “{Binding_Terms},” this summary of terms does not constitute a legally binding obligation.  The parties intend to enter into a legally binding obligation only pursuant to definitive agreements to be negotiated and executed by the parties.
+0.2.Sec=The following is a summary of the principal terms with respect to the proposed Series Seed Preferred Stock financing of {m-}{P1.N,E,A}{-m} (the “{m-}{Company}{-m}”).  Except for the section entitled “{m-}{Binding_Terms}{-m},” this summary of terms does not constitute a legally binding obligation.  The parties intend to enter into a legally binding obligation only pursuant to definitive agreements to be negotiated and executed by the parties.
 
 0.3.Sec=Offering Terms
 
 1.Ti=Securities to Issue
 
-1.sec=Shares of Series Seed Preferred Stock of the Company (the “{Series_Seed}”).
+1.sec=Shares of Series Seed Preferred Stock of the Company (the “{m-}{Series_Seed}{-m}”).
 
 2.Ti=Aggregate Proceeds
 
-2.sec=${TotalSeriesSeedInvestmentAmount} in aggregate.
+2.sec=${m-}{TotalSeriesSeedInvestmentAmount}{-m} in aggregate.
 
 3.Ti=Purchasers
 
-3.sec=Accredited investors approved by the Company (the “{Purchasers}”).
+3.sec=Accredited investors approved by the Company (the “{m-}{Purchasers}{-m}”).
 
 4.Ti=Price Per Share
 
-4.sec=Price per share (the “{Original_Issue_Price}”), based on a pre-money valuation of ${Pre-MoneyValuation} including an available option pool of {OptionPool%}%.
+4.sec=Price per share (the “{m-}{Original_Issue_Price}{-m}”), based on a pre-money valuation of ${m-}{Pre-MoneyValuation}{-m} including an available option pool of {m-}{OptionPool%}{-m}%.
 
 5.Ti=Liquidation Preference
 
@@ -42,7 +42,7 @@ Ti=TERMS FOR PRIVATE PLACEMENT OF SERIES SEED PREFERRED STOCK OF {P1.Name.Full}
 
 9.Ti=Financial Information
 
-9.sec=Purchasers who have invested at least {MajorPurchaserDollarThreshold} (“{Major_Purchasers}”) will receive standard information and inspection rights and management rights letter.
+9.sec=Purchasers who have invested at least {m-}{MajorPurchaserDollarThreshold}{-m} (“{m-}{Major_Purchasers}{-m}”) will receive standard information and inspection rights and management rights letter.
 
 10.Ti=Participation Right
 
@@ -50,11 +50,11 @@ Ti=TERMS FOR PRIVATE PLACEMENT OF SERIES SEED PREFERRED STOCK OF {P1.Name.Full}
 
 11.Ti=Board of Directors
 
-11.sec={NumberOfCommonBoardMembers} directors elected by holders of a majority of common stock, {NumberOfSeedBoardMembers} elected by holders of a majority of Series Seed and {NumberOfMutualBoardMembers} elected by mutual consent.
+11.sec={m-}{NumberOfCommonBoardMembers}{-m} directors elected by holders of a majority of common stock, {m-}{NumberOfSeedBoardMembers}{-m} elected by holders of a majority of Series Seed and {m-}{NumberOfMutualBoardMembers}{-m} elected by mutual consent.
 
 12.Ti=Expenses
 
-12.sec=Company to reimburse counsel to Purchasers for a flat fee of ${PurchaserCounselReimbursementAmount}.
+12.sec=Company to reimburse counsel to Purchasers for a flat fee of ${m-}{PurchaserCounselReimbursementAmount}{-m}.
 
 13.Ti=Future Rights
 
@@ -62,7 +62,7 @@ Ti=TERMS FOR PRIVATE PLACEMENT OF SERIES SEED PREFERRED STOCK OF {P1.Name.Full}
 
 14.Ti=Key Holder Matters
 
-14.sec=Each Key Holder shall have four years vesting beginning {FounderVestingStartDate}. Full acceleration upon “Double Trigger.” Each Key Holder shall have assigned all relevant IP to the Company prior to closing.
+14.sec=Each Key Holder shall have four years vesting beginning {m-}{FounderVestingStartDate}{-m}. Full acceleration upon “Double Trigger.” Each Key Holder shall have assigned all relevant IP to the Company prior to closing.
 
 15.Ti=Binding Terms
 
@@ -74,3 +74,10 @@ Ti=TERMS FOR PRIVATE PLACEMENT OF SERIES SEED PREFERRED STOCK OF {P1.Name.Full}
 =[01/Agt/Bit/Outline/Library_T01_V02.md]
 
 secs={1-15.Secs}
+
+Company=Company
+Binding_Terms=Binding Terms
+Series_Seed=Series Seed
+Purchasers=Purchasers
+Original_Issue_Price=Original Issue Price
+Pre-MoneyValuation=Pre-Money Valuation
