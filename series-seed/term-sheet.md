@@ -81,3 +81,6 @@ Series_Seed=Series Seed
 Purchasers=Purchasers
 Original_Issue_Price=Original Issue Price
 Pre-MoneyValuation=Pre-Money Valuation
+m-=<font color="{mcolor}">
+-m=</font>
+mcolor=magenta
