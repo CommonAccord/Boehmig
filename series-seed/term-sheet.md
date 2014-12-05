@@ -1,30 +1,30 @@
-# TERMS FOR PRIVATE PLACEMENT OF SERIES SEED PREFERRED STOCK OF *[Insert Company Name]*, INC.
+Ti=TERMS FOR PRIVATE PLACEMENT OF SERIES SEED PREFERRED STOCK OF {P1.Name.Full}
 
-*[Date]*
+0.1.Sec={Agt.Effective.YMD}
 
-The following is a summary of the principal terms with respect to the proposed Series Seed Preferred Stock financing of [Company Name], a *[Delaware]* corporation (the “_Company_”).  Except for the section entitled “_Binding Terms_,” this summary of terms does not constitute a legally binding obligation.  The parties intend to enter into a legally binding obligation only pursuant to definitive agreements to be negotiated and executed by the parties.
+0.2.Sec=The following is a summary of the principal terms with respect to the proposed Series Seed Preferred Stock financing of {P1.N,E,A} (the “{Company}”).  Except for the section entitled “{Binding_Terms},” this summary of terms does not constitute a legally binding obligation.  The parties intend to enter into a legally binding obligation only pursuant to definitive agreements to be negotiated and executed by the parties.
 
-## Offering Terms  
+0.3.Sec=Offering Terms
 
-### Securities to Issue:  
+1.Ti=Securities to Issue:  
 
-Shares of Series Seed Preferred Stock of the Company (the “_Series Seed_”).
+1.sec=Shares of Series Seed Preferred Stock of the Company (the “{Series_Seed}”).
 
-### Aggregate Proceeds:	
+2.Ti=Aggregate Proceeds:	
 
-$[Total Series Seed Investment Amount] in aggregate.
+2.sec=${TotalSeriesSeedInvestmentAmount} in aggregate.
 
-### Purchasers:	
+3.Ti=Purchasers:	
 
-Accredited investors approved by the Company (the “_Purchasers_”).
+3.sec=Accredited investors approved by the Company (the “_Purchasers_”).
 
-### Price Per Share:	
+4.Ti=Price Per Share:	
 
-Price per share (the “_Original Issue Price_”), based on a pre-money valuation of $[Pre-Money Valuation] including an available option pool of [Option Pool %]%.
+4.sec=Price per share (the “{Original_Issue_Price}”), based on a pre-money valuation of ${Pre-MoneyValuation} including an available option pool of {OptionPool%}%.
 
-### Liquidation Preference:	
+5.Ti=Liquidation Preference:	
 
-One times the Original Issue Price plus declared but unpaid dividends on each share of Series Seed, balance of proceeds paid to Common.  A merger, reorganization or similar transaction will be treated as a liquidation.
+5.sec=One times the Original Issue Price plus declared but unpaid dividends on each share of Series Seed, balance of proceeds paid to Common.  A merger, reorganization or similar transaction will be treated as a liquidation.
 
 ### Conversion:	
 
