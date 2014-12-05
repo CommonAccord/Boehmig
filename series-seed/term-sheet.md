@@ -16,7 +16,7 @@ Ti=TERMS FOR PRIVATE PLACEMENT OF SERIES SEED PREFERRED STOCK OF {P1.Name.Full}
 
 3.Ti=Purchasers:	
 
-3.sec=Accredited investors approved by the Company (the “_Purchasers_”).
+3.sec=Accredited investors approved by the Company (the “{Purchasers}”).
 
 4.Ti=Price Per Share:	
 
@@ -26,29 +26,29 @@ Ti=TERMS FOR PRIVATE PLACEMENT OF SERIES SEED PREFERRED STOCK OF {P1.Name.Full}
 
 5.sec=One times the Original Issue Price plus declared but unpaid dividends on each share of Series Seed, balance of proceeds paid to Common.  A merger, reorganization or similar transaction will be treated as a liquidation.
 
-### Conversion:	
+6.Ti=Conversion:	
 
-Convertible into one share of Common (subject to proportional adjustments for stock splits, stock dividends and the like) at any time at the option of the holder.
+6.sec=Convertible into one share of Common (subject to proportional adjustments for stock splits, stock dividends and the like) at any time at the option of the holder.
 
-### Voting Rights:	
+7.Ti=Voting Rights:	
 
-Votes together with the Common Stock on all matters on an as converted basis.  Approval of a majority of the Preferred Stock required to (i) adversely change rights of the Preferred Stock; (ii) change the authorized number of shares; (iii) authorize a new series of Preferred Stock having rights senior to or on parity with the Preferred Stock; (iv) redeem or repurchase any shares (other than pursuant to employee or consultant agreements); (v) declare or pay any dividend; (vi) change the number of directors; or (vii) liquidate or dissolve, including any change of control.
+7.sec=Votes together with the Common Stock on all matters on an as converted basis.  Approval of a majority of the Preferred Stock required to (i) adversely change rights of the Preferred Stock; (ii) change the authorized number of shares; (iii) authorize a new series of Preferred Stock having rights senior to or on parity with the Preferred Stock; (iv) redeem or repurchase any shares (other than pursuant to employee or consultant agreements); (v) declare or pay any dividend; (vi) change the number of directors; or (vii) liquidate or dissolve, including any change of control.
 
-### Documentation:	
+8.Ti=Documentation:	
 
-Documents will be identical to the Series Seed Preferred Stock documents published at www.seriesseed.com, except for the modifications set forth in this Term Sheet.    
+8.sec=Documents will be identical to the Series Seed Preferred Stock documents published at www.seriesseed.com, except for the modifications set forth in this Term Sheet.    
 
-### Financial Information:	
+9.Ti=Financial Information:	
 
-Purchasers who have invested at least [Major Purchaser Dollar Threshold] \(“_Major Purchasers_”) will receive standard information and inspection rights and management rights letter.
+9.sec=Purchasers who have invested at least [Major Purchaser Dollar Threshold] \(“_Major Purchasers_”) will receive standard information and inspection rights and management rights letter.
 
-### Participation Right:	
+10.Ti=Participation Right:	
 
-Major Purchasers will have the right to participate on a pro rata basis in subsequent issuances of equity securities.
+10.sec=Major Purchasers will have the right to participate on a pro rata basis in subsequent issuances of equity securities.
 
-### Board of Directors:	
+11.Ti=Board of Directors:	
 
-[Number of Common Board Members] directors elected by holders of a majority of common stock, [Number of Seed Board Members] elected by holders of a majority of Series Seed and [Number of Mutual Board Members] elected by mutual consent.
+11.sec=[Number of Common Board Members] directors elected by holders of a majority of common stock, [Number of Seed Board Members] elected by holders of a majority of Series Seed and [Number of Mutual Board Members] elected by mutual consent.
 
 ### Expenses:	
 
