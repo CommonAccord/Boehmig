@@ -50,40 +50,25 @@ Ti=TERMS FOR PRIVATE PLACEMENT OF SERIES SEED PREFERRED STOCK OF {P1.Name.Full}
 
 11.sec=[Number of Common Board Members] directors elected by holders of a majority of common stock, [Number of Seed Board Members] elected by holders of a majority of Series Seed and [Number of Mutual Board Members] elected by mutual consent.
 
-### Expenses:	
+12.Ti=Expenses:	
 
-Company to reimburse counsel to Purchasers for a flat fee of $[Purchaser Counsel Reimbursement Amount].
+12.sec=Company to reimburse counsel to Purchasers for a flat fee of $[Purchaser Counsel Reimbursement Amount].
 
-### Future Rights:	
+13.Ti=Future Rights:	
 
-The Series Seed will be given the same rights as the next series of Preferred Stock (with appropriate adjustments for economic terms).
+13.sec=The Series Seed will be given the same rights as the next series of Preferred Stock (with appropriate adjustments for economic terms).
 
-### Key Holder Matters:	
+14.Ti=Key Holder Matters:	
 
-Each Key Holder shall have four years vesting beginning [Founder Vesting Start Date]. Full acceleration upon “Double Trigger.” Each Key Holder shall have assigned all relevant IP to the Company prior to closing.
+14.sec=Each Key Holder shall have four years vesting beginning [Founder Vesting Start Date]. Full acceleration upon “Double Trigger.” Each Key Holder shall have assigned all relevant IP to the Company prior to closing.
 
-### Binding Terms:	
+15.Ti=Binding Terms:	
 
-For a period of thirty days, the Company shall not solicit offers from other parties for any financing.  Without the consent of Purchasers, the Company shall not disclose these terms to anyone other than officers, directors, key service providers, and other potential Purchasers in this financing.
+15.sec=For a period of thirty days, the Company shall not solicit offers from other parties for any financing.  Without the consent of Purchasers, the Company shall not disclose these terms to anyone other than officers, directors, key service providers, and other potential Purchasers in this financing.
+
+90.Sec=<table><tr><td>{P1.Sign.Block}</td></tr><tr><td>{P2.Sign.Block}</td></tr></table>
 
 
-------------
- 
-## COMPANY: 
+=[01/Agt/Bit/Outline/Library_T01_V02.md]
 
-[COMPANY NAME]:
-						
-Name:  	
-
-Title: 
-
-Date: 
-
-## PURCHASERS: 	
-
-Name:  	
-
-Title:  
-
-Date:  						 
-
+secs={1-15.Secs}
