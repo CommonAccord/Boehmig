@@ -1,16 +1,17 @@
+Note=Replacing the smart quotes with the &; equivalent, because there is some mix up about character sets, as between the parser and GitHub/file system.  Until we get that fixed, we are changing to &;
 Ti=TERMS FOR PRIVATE PLACEMENT OF SERIES SEED PREFERRED STOCK OF {m-}{P1.Name.Full}{-m}
 
 0.Sec={0.1.Sec}<br>{0.2.Sec}<br>{0.3.Sec}<br>
 
 0.1.Sec={m-}{Agt.Effective.YMD}{-m}
 
-0.2.Sec=The following is a summary of the principal terms with respect to the proposed Series Seed Preferred Stock financing of {m-}{P1.N,E,A}{-m} (the “{m-}{Company}{-m}”).  Except for the section entitled “{m-}{Binding_Terms}{-m},” this summary of terms does not constitute a legally binding obligation.  The parties intend to enter into a legally binding obligation only pursuant to definitive agreements to be negotiated and executed by the parties.
+0.2.Sec=The following is a summary of the principal terms with respect to the proposed Series Seed Preferred Stock financing of {m-}{P1.N,E,A}{-m} (the &ldquo;{m-}{Company}{-m}&rdquo;).  Except for the section entitled &ldquo;{m-}{Binding_Terms}{-m},&rdquo; this summary of terms does not constitute a legally binding obligation.  The parties intend to enter into a legally binding obligation only pursuant to definitive agreements to be negotiated and executed by the parties.
 
 0.3.Sec=Offering Terms
 
 1.Ti=Securities to Issue
 
-1.sec=Shares of Series Seed Preferred Stock of the Company (the “{m-}{Series_Seed}{-m}”).
+1.sec=Shares of Series Seed Preferred Stock of the Company (the &ldquo;{m-}{Series_Seed}{-m}&rdquo;).
 
 2.Ti=Aggregate Proceeds
 
@@ -18,11 +19,11 @@ Ti=TERMS FOR PRIVATE PLACEMENT OF SERIES SEED PREFERRED STOCK OF {m-}{P1.Name.Fu
 
 3.Ti=Purchasers
 
-3.sec=Accredited investors approved by the Company (the “{m-}{Purchasers}{-m}”).
+3.sec=Accredited investors approved by the Company (the &ldquo;{m-}{Purchasers}{-m}&rdquo;).
 
 4.Ti=Price Per Share
 
-4.sec=Price per share (the “{m-}{Original_Issue_Price}{-m}”), based on a pre-money valuation of ${m-}{Pre-MoneyValuation}{-m} including an available option pool of {m-}{OptionPool%}{-m}%.
+4.sec=Price per share (the &ldquo;{m-}{Original_Issue_Price}{-m}&rdquo;), based on a pre-money valuation of ${m-}{Pre-MoneyValuation}{-m} including an available option pool of {m-}{OptionPool%}{-m}%.
 
 5.Ti=Liquidation Preference
 
@@ -42,7 +43,7 @@ Ti=TERMS FOR PRIVATE PLACEMENT OF SERIES SEED PREFERRED STOCK OF {m-}{P1.Name.Fu
 
 9.Ti=Financial Information
 
-9.sec=Purchasers who have invested at least {m-}{MajorPurchaserDollarThreshold}{-m} (“{m-}{Major_Purchasers}{-m}”) will receive standard information and inspection rights and management rights letter.
+9.sec=Purchasers who have invested at least {m-}{MajorPurchaserDollarThreshold}{-m} (&ldquo;{m-}{Major_Purchasers}{-m}&rdquo;) will receive standard information and inspection rights and management rights letter.
 
 10.Ti=Participation Right
 
@@ -62,7 +63,7 @@ Ti=TERMS FOR PRIVATE PLACEMENT OF SERIES SEED PREFERRED STOCK OF {m-}{P1.Name.Fu
 
 14.Ti=Key Holder Matters
 
-14.sec=Each Key Holder shall have four years vesting beginning {m-}{FounderVestingStartDate}{-m}. Full acceleration upon “Double Trigger.” Each Key Holder shall have assigned all relevant IP to the Company prior to closing.
+14.sec=Each Key Holder shall have four years vesting beginning {m-}{FounderVestingStartDate}{-m}. Full acceleration upon &ldquo;Double Trigger.&rdquo; Each Key Holder shall have assigned all relevant IP to the Company prior to closing.
 
 15.Ti=Binding Terms
 
@@ -84,3 +85,4 @@ Pre-MoneyValuation=Pre-Money Valuation
 m-=<font color="{mcolor}">
 -m=</font>
 mcolor=magenta
+
